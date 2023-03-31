@@ -69,7 +69,7 @@ function Footer() {
         <div className="bottom">
           <div className="left">
             <h2>liverr</h2>
-            <span>© Liverr International Ltd. 2023</span>
+            {/* <span>© Liverr International Ltd. 2023</span> */}
           </div>
           <div className="right">
             <div className="social">

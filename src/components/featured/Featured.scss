@@ -2,7 +2,12 @@
   height: 600px;
   display: flex;
   justify-content: center;
-  background-color: #013914;
+  // background-color: #013914;
+  background-image: url("https://media.licdn.com/dms/image/C561BAQGumUn4gJC7gQ/company-background_10000/0/1592148806933?e=1680670800&v=beta&t=LmNkDqVyWpIdNxf9QQawj-h9lQ5f324scmW_oow_LYA");
+  // background-image: url("https://www.pvgcoet.ac.in/wp-content/uploads/2019/06/pvgcoet-pune-banner.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   color: white;
 
   .container {

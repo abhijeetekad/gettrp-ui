@@ -7,7 +7,8 @@ function Featured() {
       <div className="container">
         <div className="left">
           <h1>
-            Find the perfect <span>freelance</span> services for your business
+            From <span>Training to Referral, to Placement</span> - Your One-Stop
+            Career Destination!"
           </h1>
           <div className="search">
             <div className="searchInput">

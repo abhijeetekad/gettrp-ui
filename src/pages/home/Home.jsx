@@ -61,7 +61,8 @@ function Home() {
       </div>
       <div className="explore">
         <div className="container">
-          <h1>Explore the marketplace</h1>
+          {/* <h1>Explore the marketplace</h1> */}
+          <h1>Explore the Portal</h1>
           <div className="items">
             <div className="item">
               <img
@@ -150,8 +151,11 @@ function Home() {
       <div className="features dark">
         <div className="container">
           <div className="item">
-            <h1>
+            {/* <h1>
               liverr <i>business</i>
+            </h1> */}
+            <h1>
+              Gettrp <i>business</i>
             </h1>
             <h1>
               A business solution designed for <i>teams</i>
