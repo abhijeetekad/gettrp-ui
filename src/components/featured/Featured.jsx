@@ -10,13 +10,13 @@ function Featured() {
             From <span>Training to Referral, to Placement</span> - Your One-Stop
             Career Destination!"
           </h1>
-          <div className="search">
+          {/* <div className="search">
             <div className="searchInput">
               <img src="./img/search.png" alt="" />
               <input type="text" placeholder='Try "building mobil app"' />
             </div>
             <button>Search</button>
-          </div>
+          </div> */}
           <div className="popular">
             <span>Popular:</span>
             <button>Web Design</button>
